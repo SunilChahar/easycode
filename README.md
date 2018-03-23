@@ -27,9 +27,9 @@ mvn spring-boot:run
 
 
 4. Run the frontend app using npm
-cd angular-frontend
+cd angular-myapp
 npm install
-npm serve --open
+ng serve or npm start
 Frontend server will run on http://localhost:4200
 
 
